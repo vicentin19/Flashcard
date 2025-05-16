@@ -1,6 +1,15 @@
+:root {
+    --cor-principal: rgb(255, 255, 255);
+}
+
 body {
     background-color: rgb(255, 0, 0);
     font-family: Bai Jamjuree;
+    }
+
+body {
+    font-family: Bai Jamjuree;
+    color: var(--cor-principal);
 }
 
 #container {
